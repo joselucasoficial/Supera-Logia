@@ -1,2 +1,2 @@
-# Supera-Logia
+# Supera-Logica
 Desenvolvido para o processo seletivo
